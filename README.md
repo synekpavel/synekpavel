@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @synekpavel
+- 🌱 I’m currently learning HTML/CSS/JS
